@@ -3,9 +3,10 @@ API do blog xhumes em Node.js usando 'express' gerenciando rotas e 'body-parser'
 
 # Como Rodar API
 Pre-requisitos do ambiente: 
--Instalar Node.js
-
+Instalar Node.js  
 Baixar Node.js [aqui](https://nodejs.org/en/download/)
+Instalar React.js  
+
 
 Passo 1: Baixar o projeto  
 
@@ -14,7 +15,9 @@ Passo 2: Abrir o 'terminal' ou 'prompt de comando' dependendo qual sistema opera
 Passo 3: Executar o comando 'npm install' para baixar todas as dependencias que o projeto utiliza. 
 OBS: Navegar através do terminal ou prompt de comando na pasta raiz do projeto.  
 
-Passo 4: Para rodar a API basta Executar o comando 'nodemon' ou 'npm start'.  
+Passo 4: Executar o comando 'npm install react' ou 'npm i react'.  
+
+Passo 5: Para rodar a API basta Executar o comando 'nodemon' ou 'npm start'.  
 
 
 # Referências:

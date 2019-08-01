@@ -16,6 +16,9 @@ app.get('/', (req, res) => {
 const rotas = require('./rotas');
 app.use('/api', rotas);
 
+/*Back-end reconhecendo diretorio client como parte front do projeto */
+app.use(express.static(__dirname + '/client'));
+
 app.listen(port, ()=> {
     console.log("Server running on http://localhost: ", port);
 });
