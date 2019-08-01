@@ -7,7 +7,7 @@ class App extends Component {
   constructor(props){
     super(props);
     axios
-    .get('/api/postagens')
+    .get('/postagens')
     .then(resultado => {
       console.log(resultado);
     });
