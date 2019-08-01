@@ -7,7 +7,7 @@ Pre-requisitos do ambiente:
 
 https://nodejs.org/en/download/
 
-Passo 1: Baixar o projeto
+Passo 1: Baixar o projeto /n
 Passo 2: Abrir o 'terminal' ou 'prompt de comando' dependendo qual sistema operacional ultilizado 
 Passo 3: Executar o comando 'npm install' para baixar todas as dependencias que o projeto utiliza. 
 OBS: Navegar através do terminal ou prompt de comando na pasta raiz do projeto.
