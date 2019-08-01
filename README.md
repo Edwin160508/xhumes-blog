@@ -19,6 +19,10 @@ Passo 4: Executar o comando 'npm install react' ou 'npm i react'.
 
 Passo 5: Para rodar a API basta Executar o comando 'nodemon' ou 'npm start'.  
 
+# Como Rodar Front-End  
+Passo 1: Abrir outra janela do 'terminal' ou 'prompt de comando' dependendo qual sistema operacional ultilisado.  
+Passo 2: Executar comando 'npm start'  
+
 
 # Referências:
 https://blog.caelum.com.br/rest-principios-e-boas-praticas/  
