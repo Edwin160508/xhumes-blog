@@ -11,6 +11,11 @@ class App extends Component {
     .then(resultado => {
       console.log(resultado);
     });
+    axios
+    .get('/comentarios/:postid')
+    .then(resultado => {
+      console.log(resultado);
+    });
   }
   render(){
     return (
