@@ -4,7 +4,8 @@
   "description": "Meu Blog usando Node.js no backend e React.js no frontend.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
   },
   "keywords": [
     "node",

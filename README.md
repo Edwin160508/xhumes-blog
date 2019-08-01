@@ -11,7 +11,7 @@ Passo 1: Baixar o projeto
 Passo 2: Abrir o 'terminal' ou 'prompt de comando' dependendo qual sistema operacional ultilizado 
 Passo 3: Executar o comando 'npm install' para baixar todas as dependencias que o projeto utiliza. 
 OBS: Navegar através do terminal ou prompt de comando na pasta raiz do projeto.
-Passo 4: Para rodar a API basta Executar o comando 'nodemon'
+Passo 4: Para rodar a API basta Executar o comando 'nodemon' ou 'npm start'.
 
 # Configurações utilizadas durante implementação:
   npm: '6.9.0',
